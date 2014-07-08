@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.4.0
+-----
+[MomentJS](http://momentjs.com/) integration
+
 1.3.0
 -----
 
